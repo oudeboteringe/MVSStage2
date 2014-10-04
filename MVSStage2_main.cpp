@@ -13,7 +13,7 @@ int main()
 
 	// Create an image from a PNG file
 
-	CIw2DImage* image = Iw2DCreateImage("textures/foto_klein.png");
+	CIw2DImage* image = Iw2DCreateImage("textures/venetie.png");
 
 	// Loop forever, until the user or the OS performs some action to quit the app
 
